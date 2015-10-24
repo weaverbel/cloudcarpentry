@@ -8,8 +8,11 @@ Before you start
 Terminologies
 * Images - Copies of operating system
 * Instances- Your own virtual computer
+* Allocation- How much disk and memory required
+* Permissions- How other person can access your system
 * Launch - Start a computer on cloud
 * Terminate/Kill- Shutdown or dismental the system
+
 
 Useful links
 ------------
