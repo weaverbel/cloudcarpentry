@@ -2,7 +2,7 @@ Welcome to Cloud Carpentry Computing
 =====================================
 Here you will find:
 
-* Reasons why you should use the cloud
+* [Reasons](reasons.md) why you should use the cloud
 * Advice on which cloud would best suit you ([NeCTAR](nectar.md), AWS, Azure ...) 
 * Information on how you can access the cloud, including authentication and SSH keys
 * [What](what.md) you can do there - scenarios and use cases
