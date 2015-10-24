@@ -2,8 +2,8 @@ Prerequisites
 ============
 
 * No need to have programming experience
-* Don't need Previous experience in the IT world
-* Little bit knowledge about Operating system and Networking
+* Don't need previous experience in the IT world
+* A little bit of knowledge about operating systems and networking
 
 Useful links
 ------------
