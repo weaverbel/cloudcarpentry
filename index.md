@@ -2,7 +2,9 @@ Welcome to Cloud Carpentry Computing
 =====================================
 Here you will find:
 
-* Why you should use the cloud
-* Which cloud would best suit you
-* How you can get on to the cloud
-* What you can do
+* Reasons why you should use the cloud
+* Advice on which cloud would best suit you ([NeCTAR](https://dashboard.rc.nectar.org.au/), AWS, Azure ...) 
+* Inormation on how you can access the cloud, including authentication aND SSH keys
+* What you can do there - scenarios and use cases
+* Fast tools to get going, e.g. platform-as-a-service tools such as [Intersect](http://www.intersect.org.au/)'s [Launchpod](https://www.intersect.org.au/content/launchpod)
+* Links to support and advice
