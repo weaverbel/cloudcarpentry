@@ -1,11 +1,11 @@
 Before you start
 ============
-Common myths
+**Common myths**
 * Need to have programming experience
 * Have previous experience in the IT world
 * Too much technical knowledge about operating systems and networking
  
-Terminologies
+**Terminologies**
 * Images - Copies of operating system
 * Instances- Your own virtual computer
 * Allocation- How much disk and memory required
@@ -16,7 +16,6 @@ Terminologies
 * PaaS: Platform As A Service Synonym: API – Developers
 * IaaS: Infrastructure As A Service Synonym: Hardware – System Administrators
 
-
-Useful links
+**Useful links**
 ------------
 * [Cloudacademy](http://cloudacademy.com/blog/prerequisites-to-learn-cloud-computing-introduction/)
