@@ -1,5 +1,7 @@
 Welcome to Cloud Carpentry Computing
 =====================================
+![alert](cloud.jpg)
+
 Here you will find:
 
 * [Reasons](reasons.md) why you should use the cloud
