@@ -1,9 +1,9 @@
 Before you start
 ============
-* Don't panic
-* No need to have programming experience
-* Don't need previous experience in the IT world
-* A little bit of knowledge about operating systems and networking
+Common myths
+* Need to have programming experience
+* Have previous experience in the IT world
+* Too much technical knowledge about operating systems and networking
  
 Terminologies
 * Images - Copies of operating system
@@ -12,6 +12,9 @@ Terminologies
 * Permissions- How other person can access your system
 * Launch - Start a computer on cloud
 * Terminate/Kill- Shutdown or dismental the system
+* SaaS: Software As A Service Synonym: Application – End Users
+* PaaS: Platform As A Service Synonym: API – Developers
+* IaaS: Infrastructure As A Service Synonym: Hardware – System Administrators
 
 
 Useful links
