@@ -5,7 +5,8 @@ Welcome to Cloud Carpentry Computing
 Here you will find:
 
 * [Reasons](reasons.md) why you should use the cloud
-* Advice on which cloud would best suit you ([NeCTAR](nectar.md), [NeCTAR cloud] (http://nectar.org.au/research-cloud/), [AWS](https://aws.amazon.com/), [Azure] (https://azure.microsoft.com/en-us/), [iplant - Atmosphere] (http://www.iplantcollaborative.org/ci/atmosphere)...) 
+* Cloud web services, some options: [NeCTAR cloud] (http://nectar.org.au/research-cloud/), [AWS](https://aws.amazon.com/), [Azure] (https://azure.microsoft.com/en-us/), [iplant - Atmosphere]  (http://www.iplantcollaborative.org/ci/atmosphere)...
+* Advice about [NeCTAR](nectar.md) for Australian researchers
 * Information on how you can [access the cloud](access.md), including authentication and SSH keys
 * [What](what.md) you can do there - scenarios and use cases
 * Fast tools to get going, e.g. platform-as-a-service tools such as [Intersect](http://www.intersect.org.au/)'s [Launchpod](https://www.intersect.org.au/content/launchpod)
