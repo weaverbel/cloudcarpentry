@@ -11,3 +11,5 @@ You can:
 * Try things out &mdash; then shut down and walk away
 * Get access to extra computation when you need it
 * Combine the virtual machine with federally funded storage so your project has the resources it needs
+
+![benefits_cloud](https://cloud.githubusercontent.com/assets/9795785/10713493/25008ae8-7b05-11e5-8a63-2b73ff76d1e7.jpg)
