@@ -14,7 +14,7 @@ Can you guess don't even know following softwares and databases are actually run
 
 1. [Tissue stack](http://www.tissuestack.org/)
 2. [Global Reef Record](http://globalreefrecord.org/)
-3. [The Cheakpea portal](http://globalreefrecord.org/)
+3. [The Chickpea portal](http://cicer.info/)
 
 
 
